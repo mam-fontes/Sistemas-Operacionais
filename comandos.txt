@@ -1,0 +1,111 @@
+    1  11
+    2  m
+    3  wd
+    4  pwd
+    5  ls -l
+    6  help
+    7  p
+    8  ps
+    9  x
+   10  TAB x
+   11  clear
+   12  top
+   13  clear
+   14  history > arquivo2.txt
+   15  clear
+   16  ls
+   17  exit
+   18  cd
+   19  mkdir Backup
+   20  cd /Desktop
+   21  cd Desktop
+   22  ls
+   23  cp 200277565 /home/mathvic/Backup
+   24  cp -R 200277565 /home/mathvic/Backup
+   25  cd Backup
+   26  cd
+   27  cd Backup
+   28  cd 200277565
+   29  ls
+   30  cat config.ini
+   31  history > comandos.txt
+   32  exit
+   33  exit
+   34  clear
+   35  mkdir Backup
+   36  cd Desktop
+   37  cp -R 200277565 /home/mathvic/Backup
+   38  cd
+   39  cd Backup
+   40  ls
+   41  cd 200277565
+   42  cat config.ini
+   43  history > comandos.txt
+   44  exit
+   45  top
+   46  exclude operation 10
+   47  text
+   48  texlive-binaries
+   49  top
+   50  create 
+   51  past create
+   52  help
+   53  hiatory
+   54  dir
+   55  .palavras
+   56  palavras
+   57  mkdir Backup
+   58  clear
+   59  mkdir Backup
+   60  cd Desktop
+   61  cp R.A.2008152-5
+   62  cp R.A. 20008152-5 /home/mathvic/Backup
+   63  clear
+   64  mkdir Backup
+   65  cd Desktop
+   66  clear
+   67  cd home
+   68  clear
+   69  cd /
+   70  mkdir Backup
+   71  cd mathvic
+   72  cdhome
+   73  cd home
+   74  cd mathvic
+   75  mkdir Backup
+   76  cd Desktop
+   77  cd R.A.20008152-5
+   78  cp R.A.20008152-5/mathvic/Backup
+   79  cp R.A.20008152-5 /home/mathvic/Backup
+   80  cp /home/mathvic/Desktop/R.A.20008152-5 /home/mathvic/Backup
+   81  cp --help
+   82  clear
+   83  cd /home
+   84  /cd --
+   85  clear
+   86  cd /mathvic
+   87  clear
+   88  cd /mathvic
+   89  cd..
+   90  cd /home/mathvic
+   91  clear
+   92  mkdir Backup
+   93  cd /desktop
+   94  cd /Desktop
+   95  cd Desktop
+   96  cp /R.A.20008152-5 /mathvic/Backup
+   97  cp R.A.20008152-5 /mathvic/Backup
+   98  cp R.A.20008152-5 /mathvic/Backup -r
+   99  cp R.A. 20008152-5 /Backup -r
+  100  cp R.A.20008152-5 /home/mathvic/Backup -r
+  101  pwd
+  102  cat /home/mathvic/Backup/R.A.20008152-5/config.txt
+  103  clear
+  104  cd
+  105  clear
+  106  mkdir Backup
+  107  cd /Desktop
+  108  cd Desktop
+  109  cp RA20008152-5 /home/mathvic/Backup -r
+  110  cat /home/mathvic/Backup/RA20008152-5/config.txt
+  111  history>comandos.txt
